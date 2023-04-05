@@ -1,0 +1,11 @@
+<suite name="Skillo training website test suite" verbose="1">
+    <test name="Regression test">
+        <classes>
+            <class name="iSkillo_tests.AvatarTest"></class>
+            <class name="iSkillo_tests.LoginTest"></class>
+            <class name="iSkillo_tests.ModifyProfileTest"></class>
+            <class name="iSkillo_tests.PostsTest"></class>
+            <class name="iSkillo_tests.RegistrationTest"></class>
+        </classes>
+    </test>
+</suite>
